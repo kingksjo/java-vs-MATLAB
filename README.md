@@ -2,6 +2,7 @@
 
 This repo is proof to my friend group who are all Aerospace Engineers that Java can do a better job that MATLAB
 
+**Program 1**: A stress calculator.
 This program calculates the stresses in cylindrical structures (e.g. Pipes or Tanks).
 
 It computes longitudinal (axial) stress, hoop (circumfrential stress), and maximum shear stress.
